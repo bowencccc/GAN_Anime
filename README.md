@@ -2,7 +2,7 @@
 
 This repo does not include the dataset. The dataset can be found using this link: https://www.kaggle.com/datasets/prasoonkottarathil/gananime-lite
 
-To run the code, simply download the anime faces dataset above, and put it in ./images/class1/
+To execute the code, first download the anime faces dataset mentioned earlier and place it in the directory ./images/class1/.
 
 where the `class1` folder will contain all the image datasets.
 
